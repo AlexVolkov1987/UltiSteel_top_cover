@@ -49,3 +49,8 @@ Top cover for UltiSteel 3D printer
 | 11   | Шайба  C.3.37 ГОСТ 11371-78     | 30     |
 | 12   | Штифт  2.5x60 ГОСТ 3128-70      | 2      |
 
+## Дополнительные элементы:
+
+- [Гигрометр](https://aliexpress.ru/item/32936762466.html) на фронтальную панель
+- [Кулер 120мм](https://market.yandex.ru/catalog--kulery-i-sistemy-okhlazhdeniia/55321/list?cpa=0&hid=818965&glfilter=17739101%3A17739105&glfilter=4876749%3A12109487&glfilter=4876767%3A12109503&onstock=1&local-offers-first=0) и толщиной не более 25мм
+- [Угольный фильтр](https://leroymerlin.ru/product/filtr-dlya-vytyazhki-ecolux-ea-2-90004929/) для кухонной вытяжки
